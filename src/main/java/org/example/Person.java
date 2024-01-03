@@ -1,5 +1,5 @@
 package org.example;
-public class Person {
+
     public class Person {
         public String name;
         public String position;
