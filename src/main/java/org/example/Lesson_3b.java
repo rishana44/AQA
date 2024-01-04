@@ -67,7 +67,7 @@ public class Lesson_3b {
             System.out.print("\n");
         }
     }
-    /** Task 5
+    /** Task 10
      *  Написать метод, принимающий на вход два аргумента: len и initialValue,
      *  и возвращающий одномерный массив типа int длиной len, каждая ячейка которого
      *  равна initialValue;
